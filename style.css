@@ -1,0 +1,31 @@
+.bar1{
+    top: 0px;
+    background-color: lightsalmon;
+    height: 25px;
+    width: 200px;
+    border-radius: 20px 20px 20px 20px;
+    position: fixed;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+.bar2{
+    bottom: 0px;
+    background-color: cyan;
+    height: 25px;
+    width: 200px;
+    border-radius: 20px 20px 20px 20px;
+    position: fixed;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+.ball{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: fixed;
+    top: 20px;
+    left: 52.5%;
+    border-radius: 50%;
+}
